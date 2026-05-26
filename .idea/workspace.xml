@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0a87bf7-bd5e-4e94-ad3b-5b3ceaec26bf" name="Changes" comment="feat: update workspace configuration to reflect user management functionalities for admin" />
+    <list default="true" id="d0a87bf7-bd5e-4e94-ad3b-5b3ceaec26bf" name="Changes" comment="feat: Se añade el archivo ejecutable, y 2 archivos de excepciones">
+      <change afterPath="$PROJECT_DIR$/TechPark-main/src/main/java/com/techpark/techpark_uq/config/config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +40,12 @@
     &quot;assignee&quot;: &quot;Santiago-Bayona&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Santiago-Bayona/ProyectoFinal-TechPark-.git&quot;,
-    &quot;accountId&quot;: &quot;572b1a03-393b-42b9-b32c-e8cbde3ef2b7&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Santiago-Bayona/Proyecto-Final-TechPark-.git",
+    "accountId": "572b1a03-393b-42b9-b32c-e8cbde3ef2b7"
   }
-}</component>
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -64,6 +67,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/santi/Documentos/TechPark-main 2/TechPark-Final",
     "node.js.detected.package.eslint": "true",
@@ -113,6 +117,7 @@
       <workItem from="1779755748455" duration="165000" />
       <workItem from="1779756569062" duration="1679000" />
       <workItem from="1779758272324" duration="143000" />
+      <workItem from="1779758471165" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add initial project structure with user authentication and dashboard components">
       <option name="closed" value="true" />
@@ -170,11 +175,38 @@
       <option name="project" value="LOCAL" />
       <updated>1779757439375</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: Se añade la estrutura del proyecto">
+      <option name="closed" value="true" />
+      <created>1779759085156</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779759085156</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: Se añade el archivo ejecutable, y 2 archivos de excepciones">
+      <option name="closed" value="true" />
+      <created>1779759936425</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1779759936425</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -185,7 +217,9 @@
     <MESSAGE value="feat: add user management functionalities for admin including deactivate, reactivate, and permanently delete user" />
     <MESSAGE value="feat: update workspace configuration to reflect user management functionalities for admin" />
     <MESSAGE value="Feat: Se añade la estructura del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: Se añade la estructura del proyecto" />
+    <MESSAGE value="feat: Se añade la estrutura del proyecto" />
+    <MESSAGE value="feat: Se añade el archivo ejecutable, y 2 archivos de excepciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Se añade el archivo ejecutable, y 2 archivos de excepciones" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
