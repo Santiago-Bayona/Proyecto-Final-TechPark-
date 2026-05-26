@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0a87bf7-bd5e-4e94-ad3b-5b3ceaec26bf" name="Changes" comment="feat: update workspace configuration to reflect user management functionalities for admin" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/santi/Documentos/TechPark-main" value="3E2ic0inytn66QN37vJAbLU6nck" />
+      <entry key="_C:/Users/santi/Documentos/TechPark-main 2/TechPark-Final" value="3EEt44YvLHgoZCdTtPXf7DpM4R5" />
+      <entry key="_C:/Users/santi/Documentos/TechPark-main 2/TechPark-main 2" value="3ECUChMgqpBGv6nV3Fe0n9fS509" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Santiago-Bayona&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Santiago-Bayona/ProyectoFinal-TechPark-.git&quot;,
+    &quot;accountId&quot;: &quot;572b1a03-393b-42b9-b32c-e8cbde3ef2b7&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3E2ic0inytn66QN37vJAbLU6nck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/santi/Documentos/TechPark-main 2/TechPark-Final",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TechparkUqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="diversiones" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.techpark.techpark_uq.TechparkUqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0a87bf7-bd5e-4e94-ad3b-5b3ceaec26bf" name="Changes" comment="" />
+      <created>1779383141571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779383141571</updated>
+      <workItem from="1779383143816" duration="431000" />
+      <workItem from="1779681920046" duration="8000" />
+      <workItem from="1779732246157" duration="881000" />
+      <workItem from="1779733579432" duration="405000" />
+      <workItem from="1779734460121" duration="4000" />
+      <workItem from="1779740701897" duration="204000" />
+      <workItem from="1779744889422" duration="34000" />
+      <workItem from="1779745647897" duration="61000" />
+      <workItem from="1779755362937" duration="347000" />
+      <workItem from="1779755748455" duration="165000" />
+      <workItem from="1779756569062" duration="1679000" />
+      <workItem from="1779758272324" duration="143000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add initial project structure with user authentication and dashboard components">
+      <option name="closed" value="true" />
+      <created>1779732507064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779732507064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add initial project structure with user authentication and dashboard components">
+      <option name="closed" value="true" />
+      <created>1779733593126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779733593126</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add initial project structure with user authentication and dashboard components">
+      <option name="closed" value="true" />
+      <created>1779740713138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779740713138</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: implement password input component with toggle visibility and update related forms">
+      <option name="closed" value="true" />
+      <created>1779744910821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779744910821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: add user management functionalities for admin including deactivate, reactivate, and permanently delete user">
+      <option name="closed" value="true" />
+      <created>1779745659665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779745659665</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: update workspace configuration to reflect user management functionalities for admin">
+      <option name="closed" value="true" />
+      <created>1779755635152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779755635152</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feat: Se añade la estructura del proyecto">
+      <option name="closed" value="true" />
+      <created>1779757439375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779757439375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="feat: add initial project structure with user authentication and dashboard components" />
+    <MESSAGE value="feat: implement password input component with toggle visibility and update related forms" />
+    <MESSAGE value="feat: add user management functionalities for admin including deactivate, reactivate, and permanently delete user" />
+    <MESSAGE value="feat: update workspace configuration to reflect user management functionalities for admin" />
+    <MESSAGE value="Feat: Se añade la estructura del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: Se añade la estructura del proyecto" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
